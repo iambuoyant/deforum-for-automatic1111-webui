@@ -1,3 +1,7 @@
+# Videos & Resources
+1. https://www.youtube.com/watch?v=Po-ykkCLE6M
+2. https://www.youtube.com/watch?v=dqkQo2alZvU
+3. https://www.futuretools.io/tools/rundiffusion
 
 # Deforum Stable Diffusion — official extension for AUTOMATIC1111's webui
 
